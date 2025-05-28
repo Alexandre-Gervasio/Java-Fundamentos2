@@ -72,7 +72,6 @@ public class menu {
         
         var pet = new Pet(name);
         petPath.setPet(pet);
-        System.out.println("O Pet " + pet.getName() + " foi adicionado à máquina\n");
     }
 
 

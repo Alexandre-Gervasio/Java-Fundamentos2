@@ -54,6 +54,7 @@ public class PetPath {
         }
         
         this.pet = pet;
+        System.out.println("O Pet " + pet.getName() + " foi adicionado à máquina\n");
     }
 
     public void removePet(){
